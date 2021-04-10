@@ -1,0 +1,12 @@
+*.pyc
+*.log
+*prof
+.idea
+sftp-config.json
+.pytest_cache
+*.gz
+pipeline_tmp/*
+annotation_tmp/*
+*.json
+venv
+*tmp
